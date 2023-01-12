@@ -46,7 +46,7 @@ I personally prefer [vim](https://github.com/vim/vim)
 sudo pacman -S vim
 ```
 > Alternative text editor
-> [nano](https://git.savannah.gnu.org/cgit/nano.git)
+> - [nano](https://git.savannah.gnu.org/cgit/nano.git)
 
 # Base configuration
 Our installation have all elemental things, we can continue to configure.
