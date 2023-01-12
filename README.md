@@ -7,14 +7,16 @@ I found some benefitcs of Sway - Window Managers in gerneral compare to Desktop 
 - Potential to get better battery life on laptop.
 - Much better gaming expericnes - fps boost, frametimes stability
 
-- [Base](#base)
-  - [Sway Installation](#sway-installation)
+- [Base installation](#base-installation)
+  - [Sway](#sway)
   - [Tools](#tools)
+ - [Base configuration](#base-configuration)
+ 
   
-# Base
+# Base Installation
 You need to satisfy the following steps to get Sway working and to be ready for post-install configuration.
 
-## Sway-Installation
+## Sway
 You need install following packages
 ```
 sudo pacman -S --needed sway swaybg swayidle swayimg swaylock
@@ -37,3 +39,14 @@ sudo pacman -S wofi
 ```
 > Alternative launcher: 
 > - [Rofi](https://github.com/davatorium/rofi)
+
+### Text editor
+I personally prefer [vim](https://github.com/vim/vim)
+```
+sudo pacman -S vim
+```
+> Alternative text editor
+> [nano](https://git.savannah.gnu.org/cgit/nano.git)
+
+# Base configuration
+Our installation have all elemental things, we can continue to configure.
