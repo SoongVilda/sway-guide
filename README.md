@@ -30,4 +30,10 @@ sudo pacman -S kitty
 > Alternative terminal: 
 > - [Alacritty](https://alacritty.org/)
 
-###
+### Launcher
+You need launcher to execute apps, program like Firefox, LibreOffice, Steam, etc. I personally prefer [wofi](https://hg.sr.ht/~scoopta/wofi)
+```
+sudo pacman -S wofi
+```
+> Alternative launcher: 
+> - [Rofi](https://github.com/davatorium/rofi)
